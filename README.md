@@ -32,7 +32,6 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
-  - Girls Who Tests
   - Gildia Testerów
   
 # Recommended blogs
